@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+main {
+    max-width: 500px;
+    width: 100%;
+    margin: 0px auto;
+}
+
+.gauge .dial {
+    stroke: #345;
+    stroke-width: 6;
+}
+
+.gauge .value {
+    stroke: #2fe3ff;
+    stroke-width: 6;
+}
+
+.gauge .value-text {
+    fill: #1897ab;
+}
