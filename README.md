@@ -1,10 +1,10 @@
 # Real time Windows RAM usage
 
+<img src="https://github.com/JaxonRailey/php-real-time-windows-ram-usage/blob/main/screenshot.png?raw=true" width="400" />
+
 For Windows users only!
 
 An unusual and creative use of PHP, outside the box and far from the usual web context.
-
-![PHP Real Time Chat](https://github.com/JaxonRailey/php-real-time-windows-ram-usage/blob/main/screenshot.png?raw=true)
 
 This time, rather than querying the database, I get the **RAM** usage information. I used the **shell_exec** function to run the command as if I were working on the terminal. 
 
